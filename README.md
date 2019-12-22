@@ -2,7 +2,7 @@
 
 ## Avant de commencer
 
-- Créez un dépôt privé sur Gitlab et ajoutez moi : MaximeBlanc
+- Créez un dépôt privé sur Gitlab et ajoutez moi : jean-smaug
 - Clonez ce dépôt et changez l'url du dépôt distant ([indice](https://git-scm.com/docs/git-remote))
 
 ## Partie 1 - Explications (14 points)
