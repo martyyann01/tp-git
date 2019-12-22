@@ -31,11 +31,12 @@ Vous devez mettre en place une intégration continue sur ce projet. Vous devrez 
 
 Utilisez la branche `php` ou la branche `javascript` selon vos préférences. Votre intégration continue devra lancer les scripts `lint` et `test` pour UNE seule de ces deux branches.
 
-Vous devrez corriger les fichiers afin que l'intégration continue soit au vert.
+Vous devrez faire le nécessaire afin que l'intégration continue soit au vert.
 
-## Partie 3 (optionnelle mais appréciée)
+## Partie 3 - Livre d'or (optionnelle mais appréciée)
 
 Dites moi ce que vous avez pensé de cette journée et demi de formation.
+Précisez si vous êtes d'accord pour que j'utilise votre message publiquement.
 
 ## Liens utiles
 
