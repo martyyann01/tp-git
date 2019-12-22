@@ -7,8 +7,8 @@
 
 ## Partie 1 - Explications (14 points)
 
-Cette partie est une restitutions des connaissances que vous avez acquises sur l'utilisation de Git et Github. Plutôt que de vous laisser libre sur la rédaction, cela est sous forme de questions-réponses. Détaillez en utilisant les concepts vus en cours (zones, cycle de vie, référence...).
-Pour répondre aux questions créez une nouvelle branche et créez une Merge Request afin que je puisse faire une revue simplement.
+Cette partie est une restitution des connaissances que vous avez acquises sur l'utilisation de Git et Github. Plutôt que de vous laisser libre sur la rédaction, cela est sous forme de questions-réponses. Détaillez en utilisant les concepts vus en cours (zones, cycle de vie, référence...).
+Pour répondre aux questions, créez une nouvelle branche et créez une Merge Request afin que je puisse faire une revue simplement.
 
 ### Quelle sont les deux façons d'initialiser un dépôt ? (1 point)
 
@@ -18,7 +18,7 @@ Pour répondre aux questions créez une nouvelle branche et créez une Merge Req
 
 ### Vous venez de modifier un fichier. Comment créer un commit ? (3 points)
 
-### Pourquoi est-il plus prudent d'utiliser `origin/master` plutôt que `master` pour se mettre à jour ? (1 points)
+### Pourquoi est-il plus prudent d'utiliser `origin/master` plutôt que `master` pour se mettre à jour ? (1 point)
 
 ### A quoi servent les commandes `git status`, `git log` et `git reflog` ? Quand les utiliser ? (2 points)
 
@@ -34,7 +34,7 @@ Utilisez la branche `php` ou la branche `javascript` selon vos préférences. Vo
 
 Vous devrez faire le nécessaire afin que l'intégration continue soit au vert.
 
-## Partie 3 - Livre d'or (optionnelle mais appréciée)
+## Partie 3 - Livre d'or (optionnelle, mais appréciée)
 
 Dites moi ce que vous avez pensé de cette journée et demi de formation.
 Précisez si vous êtes d'accord pour que j'utilise votre message publiquement.
