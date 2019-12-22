@@ -7,11 +7,12 @@
 
 ## Partie 1 - Explications (14 points)
 
-Cette partie est une restitutions des connaissances que vous avez acquises sur l'utilisation de Git et Github. Plutôt que de vous laisser libre sur la rédaction, cela est sous forme de questions-réponses. Détaillez en utilisant les concepts vus en cours (zones, cycle de vie, référence...)
+Cette partie est une restitutions des connaissances que vous avez acquises sur l'utilisation de Git et Github. Plutôt que de vous laisser libre sur la rédaction, cela est sous forme de questions-réponses. Détaillez en utilisant les concepts vus en cours (zones, cycle de vie, référence...).
+Pour répondre aux questions créez une nouvelle branche et créez une Merge Request afin que je puisse faire une revue simplement.
 
 ### Quelle sont les deux façons d'initialiser un dépôt ? (1 point)
 
-### À quoi sert une Pull Request ? (1 point)
+### À quoi sert une Pull Request / Merge Request ? (1 point)
 
 ### Qu'est ce qu'une branche ? (1 point)
 
@@ -21,7 +22,7 @@ Cette partie est une restitutions des connaissances que vous avez acquises sur l
 
 ### A quoi servent les commandes `git status`, `git log` et `git reflog` ? Quand les utiliser ? (2 points)
 
-### Quelles sont les 2 conditions qui doivent être réunies pour que des conflits surviennent ? (2 points)
+### Quelles sont les conditions qui doivent être réunies pour que des conflits surviennent ? (2 points)
 
 ### Imaginez que la branche master du dépôt distant contient de nouveaux commits. Comment intégrer ces commits dans votre branche ? (3 points)
 
