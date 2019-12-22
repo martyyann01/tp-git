@@ -15,9 +15,11 @@ Cette partie est une restitutions des connaissances que vous avez acquises sur l
 
 ### Qu'est ce qu'une branche ? (1 point)
 
-### Vous venez de modifier un fichier. Comment créer un commit ? (2 points)
+### Vous venez de modifier un fichier. Comment créer un commit ? (3 points)
 
-### Pourquoi est-il plus prudent d'utiliser **origin/master** plutôt que **master** ? (2 points)
+### Pourquoi est-il plus prudent d'utiliser `origin/master` plutôt que `master` pour se mettre à jour ? (1 points)
+
+### A quoi servent les commandes `git status`, `git log` et `git reflog` ? (2 points)
 
 ### Quelles sont les 2 conditions qui doivent être réunies pour que des conflits surviennent ? (2 points)
 
@@ -56,7 +58,7 @@ Si vous avez des questions et que je ne réponds pas sur Discord vous pouvez ess
 ## Dates
 
 - 13 janvier &rarr; 1er rendu de la Partie 1
-- 16 janvier &rarr; retours sur vos travaux pour que vous puissiez les améliorer
+- 16 janvier &rarr; note provisoire et retours sur vos travaux pour que vous puissiez les améliorer
 - 20 janvier &rarr; rendu final
 - 27 janvier &rarr; vos notes
 
