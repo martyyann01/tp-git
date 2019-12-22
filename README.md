@@ -2,7 +2,7 @@
 
 ## Avant de commencer
 
-- Créez un dépôt privé et ajoutez moi. MaximeBlanc sur Gitlab et jean-smaug sur Github
+- Créez un dépôt privé sur Gitlab et ajoutez moi : MaximeBlanc
 - Clonez ce dépôt et changez l'url du dépôt distant ([indice](https://git-scm.com/docs/git-remote))
 
 ## Partie 1 - Explications (14 points)
@@ -19,7 +19,7 @@ Cette partie est une restitutions des connaissances que vous avez acquises sur l
 
 ### Pourquoi est-il plus prudent d'utiliser `origin/master` plutôt que `master` pour se mettre à jour ? (1 points)
 
-### A quoi servent les commandes `git status`, `git log` et `git reflog` ? (2 points)
+### A quoi servent les commandes `git status`, `git log` et `git reflog` ? Quand les utiliser ? (2 points)
 
 ### Quelles sont les 2 conditions qui doivent être réunies pour que des conflits surviennent ? (2 points)
 
@@ -27,9 +27,11 @@ Cette partie est une restitutions des connaissances que vous avez acquises sur l
 
 ## Partie 2 - Intégration continue (6 points)
 
-Vous devez mettre en place une intégration continue sur ce projet. Je vous conseille d'utiliser [Gitlab CI]() ou [Travis]() car elles sont relativement facile à prendre en main. Vous pouvez bien entendu utiliser autre chose. Un type à écrit un tuto vachement bien sur [CircleCI](https://dev.to/jeansmaug/dploiement-continu-avec-circleci---partie-1-208n) 🙄
+Vous devez mettre en place une intégration continue sur ce projet. Vous devrez utiliser [Gitlab CI](https://docs.gitlab.com/ee/ci/README.html).
 
-Utilisez la branche `php` ou la branche `javascript` selon vos préférences. Quelque soit votre choix vous devrez lancer les scripts `lint` et `test`.
+Utilisez la branche `php` ou la branche `javascript` selon vos préférences. Votre intégration continue devra lancer les scripts `lint` et `test` pour UNE seule de ces deux branches.
+
+Vous devrez corriger les fichiers afin que l'intégration continue soit au vert.
 
 ## Partie 3 (optionnelle mais appréciée)
 
